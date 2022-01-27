@@ -1,0 +1,21 @@
+21-08-02 16:47 root         INFO     start to run test case!!!
+21-08-02 16:50 root         INFO     start to run test case!!!
+21-08-02 16:53 root         INFO     start to run test case!!!
+21-08-02 16:53 root         INFO     start to run test case!!!
+21-08-02 16:56 root         INFO     start to run test case!!!
+21-08-02 18:45 root         INFO     start to run test case!!!
+21-08-02 18:48 root         INFO     start to run test case!!!
+21-08-02 18:51 root         INFO     start to run test case!!!
+21-08-02 18:52 root         INFO     start to run test case!!!
+21-08-02 18:54 root         INFO     start to run test case!!!
+21-08-02 18:57 root         INFO     start to run test case!!!
+21-08-02 18:58 root         INFO     start to run test case!!!
+21-08-03 10:37 root         INFO     start to run test case!!!
+21-08-03 10:37 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): test.tingjiandan.com:80
+21-08-03 10:37 urllib3.connectionpool DEBUG    http://test.tingjiandan.com:80 "POST //sbdevice/dataEvt/receive HTTP/1.1" 200 None
+22-01-26 18:45 root         INFO     start to run test case!!!
+22-01-26 18:45 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): test.tingjiandan.com:80
+22-01-26 18:45 urllib3.connectionpool DEBUG    http://test.tingjiandan.com:80 "POST //sbdevice/dataEvt/receive HTTP/1.1" 200 None
+22-01-26 18:45 root         INFO     stop to run test case!!!
+22-01-27 17:22 root         INFO     start to run test case!!!
+22-01-27 17:22 root         INFO     stop to run test case!!!
